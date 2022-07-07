@@ -1,0 +1,4 @@
+keyboard==0.13.5
+mcstatus==8.0.0
+mouse==0.7.1
+playsound==1.3.0
