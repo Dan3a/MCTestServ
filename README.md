@@ -5,6 +5,7 @@ Allows you to monitor a currently down server, send an E-Mail once it's back onl
 ## How to use
 
 Only works on windows for now, may develop Linux compatibility later.
+
 Clone the project wherever you want, then open a cli in the directory and use the following command to install the requirements:
 ```batch
 pip install -r requirements.txt
